@@ -1,0 +1,10 @@
+@extends('frontend.templates.master')
+@section('content')
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    @include('frontend.category.tool-box')
+    @include('frontend.category.list-product')
+@endsection
