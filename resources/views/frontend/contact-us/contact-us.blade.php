@@ -24,11 +24,11 @@
                                     <ul >
                                         <li>
                                             <i class="icon-map-marker"></i>
-                                            Đông Ngạc, Bắc Từ Liêm, Hà Nội, Việt Nam
+                                            Hà Nội, Việt Nam
                                         </li>
                                         <li>
                                             <i class="icon-phone"></i>
-                                            <a href="tel:#">0966 194 595</a>
+                                            <a href="tel:#">(+84)966 194 595</a>
                                         </li>
                                         <li>
                                             <i class="icon-envelope"></i>
