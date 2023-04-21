@@ -1,5 +1,5 @@
-<footer class="footer" style="background-image: url('{{asset('layouts/images/demos/demo-31/footer-bg.PNG')}}')">
-    <div class="footer-top" style="background-image: url('{{asset('layouts/images/demos/demo-31/bg2.PNG')}}')">
+<footer class="footer" style="background-image: url('{{asset('layouts/images/demos/demo-31/footer-bg.png')}}')">
+    <div class="footer-top" style="background-image: url('{{asset('layouts/images/demos/demo-31/bg2.png')}}')">
         <div class="container">
             <div class="newsletter justify-content-center pt-7 pb-7">
                 <div class="newsletter-heading text-center">
