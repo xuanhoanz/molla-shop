@@ -13,7 +13,6 @@ use Illuminate\Http\Response;
 use Illuminate\Support\Facades\DB;
 use App\Repositories\ProductRepository;
 use App\Repositories\CategoryRepository;
-use App\Models\Product;
 
 
 class ProductController extends Controller
